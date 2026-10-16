@@ -1,0 +1,5 @@
+stand
+be
+stop
+suit
+be true

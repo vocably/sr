@@ -1,0 +1,5 @@
+earth
+land
+country
+soil
+ground

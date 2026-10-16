@@ -1,0 +1,3 @@
+die Karte
+der Ausweis
+das Ticket
